@@ -1,0 +1,42 @@
+body
+{
+color: black;
+background: #a49bf7;
+font-family: 'Ibarra Real Nova', serif;
+}
+.header_div
+{
+    background-color: rgb(219, 219, 240);
+    color:rgb(24, 157, 241);
+
+}
+.header_div p
+{
+    font-family: 'Roboto',sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+.main_div button
+{
+    font-family: 'EB Garamond',sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+.copy_right_footer
+{
+    position:fixed;
+    color:rgb(72, 69, 73);
+    bottom: 0;
+    width: 100%;
+    font-size:18px;
+    background-color: antiquewhite;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 6px 6px 6px rgb(129, 123, 131);;
+}
